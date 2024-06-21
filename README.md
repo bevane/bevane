@@ -1,7 +1,7 @@
-<div id="name" align="center">
-  <a href="https://github.com/bevane">
-    <img src="media/name.png" alt="Bevane Peter" /></a>
-</div>
+<p align="center">
+    <img width="300px" src="media/name.png" alt="Bevane Peter">
+</p>
+
 
 <details open>
 <summary><h2>About</h2></summary>
@@ -18,82 +18,39 @@
 
 <details open>
 <summary><h2>My Projects</h2></summary>
-<div class="repos">
-<a href="https://github.com/bevane/food-diary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bevane&repo=food-diary&theme=prussian"></a>
-<a href="https://github.com/bevane/ssg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bevane&repo=ssg&theme=prussian"></a>
-</div>
+<p align="left">
+<a href="https://github.com/bevane/food-diary"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bevane&repo=food-diary&theme=prussian&hide_border=true"></a>
+</p>
+<p align="left">
+<a href="https://github.com/bevane/ssg"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bevane&repo=ssg&theme=prussian&hide_border=true"></a>
+</p>
 </details>
 
 <details open>
 <summary><h2>Languages, Frameworks & Tools</h2></summary>
-<div class="lang">
-    <img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <img alt="SQL" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-    <img alt="HTML" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    <img alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-    <img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48">
-    <img alt="C" title="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
-</div>
-<div class="tech">
-    <img alt="PostgreSQL" title="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-    <img alt="MongoDB" title="MongoDB" src="https://github.com/mongodb.png">
-    <img alt="Linux" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-    <img alt="Django" title="Django" src="https://github.com/django.png">
-    <img alt="Azure Repos" title="Azure Repos" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png">
-    <img alt="Ngninx" title="Nginx" src="https://github.com/nginx.png">
-    <img alt="Neovim" src="https://github.com/neovim.png">
-</div>
+<p align="center">
+    <img alt="Python" title="Python" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+    <img alt="SQL" title="SQL" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+    <img alt="HTML" title="HTML" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+    <img alt="CSS" title="CSS" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+    <img alt="JavaScript" title="JavaScript" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img alt="C" title="C" height="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
+</p>
+<p align="center">
+    <img alt="PostgreSQL" title="PostgreSQL" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+    <img alt="MongoDB" title="MongoDB" height="50px" src="https://github.com/mongodb.png">
+    <img alt="Linux" title="Linux" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+    <img alt="Django" title="Django" height="50px" src="https://github.com/django.png">
+    <img alt="Azure Repos" title="Azure Repos" height="50px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png">
+    <img alt="Ngninx" title="Nginx" height="50px" src="https://github.com/nginx.png">
+    <img alt="Neovim" title="Neovim" height="50px" src="https://github.com/neovim.png">
+</p>
 </details>
 
 <details open>
 <summary><h2>Stats</h2></summary>
-<div class="stats">
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bevane&theme=prussian" alt="GitHub Streak" /></a>
-</div>
+</p>
 </details>
 
-<style>
-#name {
-    height: 75px;
-    background-image: url('https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-stars-and-you.png');
-    background-size: cover;
-}
-
-.lang,
-.tech {
-    margin-bottom: 15px;
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-}
-
-.lang img,
-.tech img {
-    height: 50px;
-}
-
-.repos img {
-    width: 278px;
-
-}
-
-.stats {
-    display: flex;
-    justify-content: center;
-}
-</style>
-
-<!--
-**bevane/bevane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
