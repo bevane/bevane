@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center" style="height:50px;">
+  <a href="https://github.com/bevane">
+    <img src="media/name.png" alt="Bevane Peter" /></a>
+</p>
 
 <!--
 **bevane/bevane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
