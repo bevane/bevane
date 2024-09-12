@@ -22,6 +22,9 @@
 <a href="https://github.com/bevane/food-diary"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bevane&repo=food-diary&theme=prussian&hide_border=true"></a>
 </p>
 <p align="left">
+<a href="https://github.com/bevane/repocheck"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bevane&repo=repocheck&theme=prussian&hide_border=true"></a>
+</p>
+<p align="left">
 <a href="https://github.com/bevane/ssg"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=bevane&repo=ssg&theme=prussian&hide_border=true"></a>
 </p>
 </details>
