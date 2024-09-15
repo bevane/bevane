@@ -4,6 +4,7 @@
 
 
 <details open>
+    <h4>#OpenToWork<h4><p>I am currently open to new professional opportunities. You can reach out to me on <a href="https://www.linkedin.com/in/bevane/">LinkedIn</a> if you are interested in my profile</p>
 <summary><h2>About</h2></summary>
     <p>
         Hi, I come from a Chemical Engineering background with >3 years work experience including 1 year work experience in Data Engineering.
